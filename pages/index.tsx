@@ -5,10 +5,7 @@ function Home() {
     <>
       <Head>
         <title>doesnt.rest</title>
-        <meta
-          name="description"
-          content="awkweb is a computer programmer based in Brooklyn."
-        />
+        <meta name="description" content="Dan doesnt rest" />
       </Head>
 
       <main>
