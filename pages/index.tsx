@@ -4,12 +4,12 @@ function Home() {
   return (
     <>
       <Head>
-        <title>doesnt.rest</title>
+        <title>🧑‍💻 doesnt.rest</title>
         <meta name="description" content="Dan doesnt rest" />
       </Head>
 
       <main>
-        <p>Dan doesnt rest.</p>
+        <p>Dan 💤</p>
         <p className="muted">
           {/* <a
             href="https://linkedin.com/in/b0y"
@@ -17,10 +17,10 @@ function Home() {
             rel="noreferrer"
           >
             LinkedIn
-          </a>{" "}
+          </a>{" "} */}
           <a href="https://instagr.am/d6niiel" target="_blank" rel="noreferrer">
             Instagram
-          </a>{" "} */}
+          </a>{" "}
           <a href="mailto:dan@doesnt.rest" target="_blank" rel="noreferrer">
             Email
           </a>{" "}
